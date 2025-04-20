@@ -15,9 +15,7 @@ def generate_output(message:list, params:dict):
     Returns:
         tuple: output and the price
     """
-    client = OpenAI(
-        api_key=os.environ.get("OPENAI_API_KEY")
-        )
+    client = OpenAI()
 
     try:
         response = client.chat.completions.create(
@@ -29,10 +27,8 @@ def generate_output(message:list, params:dict):
             top_p=params['top_p'],
         )
         response = response.to_dict()
-       
-        
+        response = response['choices'][0]['message']['content']
         
         return response
     except Exception as e:
-        print(e)
-        return
+        raise Exception(e)

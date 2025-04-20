@@ -1,0 +1,27 @@
+OPENAI_SETTINGS:
+  model: gpt-4.1
+  temperature: 0.1
+  max_tokens: 5000
+  top_p: 1.0
+
+USE_VERSION: version_1
+
+version_1:
+  MESSAGE: |
+    You are an agent responsible for validating the company details to the ISO template provided. You will be given company information, the ISO template and the filled template.
+
+    # Workflow
+    ## Steps
+    1. Understand the ISO template ,the company details and the completed template with company information added Reflect and validate the completed template. I want you to create a table that has the 3 columns, section, status and issue. The section will include the main heading and the status will have issue, if there is one or No Issue. The issue section will only be filled if there is an issue, otherwise it will be empty. At the end provide a summary of validation. Start it with ##### VALIDATION
+   
+
+  PROMPT: |
+    Here is the company Information:
+    {company_information}
+    
+    # ISO TEMPLATE:
+    {iso_template}
+
+    # Completed Template:
+    {completed_template}
+  

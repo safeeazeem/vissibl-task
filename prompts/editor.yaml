@@ -1,0 +1,26 @@
+OPENAI_SETTINGS:
+  model: gpt-4.1
+  temperature: 0.1
+  max_tokens: 6000
+  top_p: 1.0
+
+USE_VERSION: version_1
+
+version_1:
+  MESSAGE: |
+    You are an agent responsible for filling the company details to the ISO template provided. You need to be thorough and accurate while doing that. 
+
+    # Workflow
+    ## Steps
+    1. Understand the ISO template and the company details. Carefully read the company details and then fill the ISO Template.
+    2. While filling the template, do not delete the content from the actual template, only replace. Anything that has no change, you can write it as it is.
+    3. The output should be in markdown format.
+   
+
+  PROMPT: |
+    Here is the company Information:
+    {company_information}
+    
+    # ISO TEMPLATE:
+    {iso_template}
+  
