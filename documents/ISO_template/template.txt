@@ -1,0 +1,466 @@
+# R-Integrated Management System Manual
+
+---
+
+## DOCUMENT CONTROL
+
+| Rev | Roles     | Name | Title | Date |
+|-----|-----------|------|-------|------|
+|     | Prepared  |      |       |      |
+|     | Endorsed  |      |       |      |
+
+
+---
+
+## Table of Contents
+
+1. Integrated Management System (IMS) Manual  
+    1.1. Purpose, Scope, and Users  
+    1.2. Exclusions  
+    1.3. Definitions  
+2. Context of the Organization  
+    2.1. Understanding the Organization and its Context  
+    2.2. Understanding the Needs and Expectations of Interested Parties  
+    2.3. Determining the Scope of the Integrated Management System  
+    2.4. Integrated Management System and its Processes  
+3. Leadership  
+    3.1. Leadership and Commitment  
+        3.1.1. General  
+        3.1.2. Customer Focus  
+    3.2. IMS Policies  
+    3.3. Organizational Roles and Responsibilities  
+    3.4. Consultation and Participation of Workers  
+4. Planning  
+    4.1. Actions to Address Risks and Opportunities  
+        4.1.1. General  
+        4.1.2. Environmental Aspects  
+        4.1.3. Hazard Identification and Assessment of Risks and Opportunities  
+        4.1.4. Compliance Obligations  
+        4.1.5. Planning Actions  
+    4.2. IMS Objectives and Planning to Achieve Them  
+        4.2.1. Setting and Monitoring Objectives  
+    4.3. Planning Changes  
+5. Resources  
+    5.1. Resources  
+    5.2. Competence  
+    5.3. Awareness  
+    5.4. Communication  
+        5.4.1. Documented Information  
+6. Operation  
+    6.1. Organizational Planning and Control  
+    6.2. Requirements for Products and Services  
+    6.3. Design and Development of Products and Services  
+    6.4. Control of Externally Provided Processes, Products, and Services  
+    6.5. Production and Service Provision  
+    6.6. Release of Products and Services  
+    6.7. Control of Nonconforming Outputs  
+    6.8. Emergency Preparedness and Response  
+7. Performance Evaluation  
+    7.1. Monitoring, Measurement, Analysis, and Evaluation  
+        7.1.1. General  
+        7.1.2. Customer Satisfaction  
+        7.1.3. Analysis and Evaluation of Compliance  
+    7.2. Internal Audit  
+    7.3. Management Review  
+8. Improvement  
+    8.1. General  
+    8.2. Incident, Nonconformity, and Corrective Action  
+    8.3. Continual Improvement  
+
+---
+
+## About the organization
+
+[Add Basic information about the organization and its production and/or service provisioning program including the organization structure]
+
+```
+CEO
+├── Sales and Marketing Department
+├── Production and Service Provision Department
+├── Warehousing and Transport Department
+├── Finance and Accounting Department
+└── Human Resources Department
+```
+
+---
+
+## 1. Integrated Management System (IMS) Manual
+
+### 1.1. Purpose, Scope, and Users
+
+The Integrated Management System (IMS) Manual applies to all processes, products, and services of [Organization Name] and demonstrates the organization’s capability to consistently provide products and services that meet customer and regulatory requirements. It ensures compliance with **ISO 9001** for quality management, **ISO 14001** for environmental protection, and **ISO 45001** for occupational health and safety by promoting continual improvement, pollution prevention, and workplace safety. The IMS covers all operational activities, including production, service provision, and control of external providers, while any exclusions from the standards are clearly justified and documented. This manual serves as a reference for all employees, management, external stakeholders, including customers, suppliers, certification bodies, and regulatory authorities, ensuring a shared understanding of the organization’s integrated management approach.
+
+### 1.2. Exclusions
+
+The IMS excludes the following clauses of the scope:
+
+---
+
+### 1.3. Definitions
+
+For the purpose of this Integrated Management System Manual, the following definitions apply. These definitions ensure a clear understanding of key terms used throughout the IMS and align with the standards **ISO 9001:2015**, **ISO 14001:2015**, and **ISO 45001:2018**.
+
+- **IMS:** Integrated Management System. A single coherent system that integrates processes and procedures to address quality, environmental, and health & safety requirements.
+- **QMS:** Quality Management System. The part of the IMS focused on meeting customer requirements and enhancing customer satisfaction (**ISO 9001**).
+- **EMS:** Environmental Management System. The part of the IMS focused on minimizing the environmental impact of operations and ensuring legal compliance (**ISO 14001**).
+- **OH&S:** Occupational Health and Safety Management System. The part of the IMS focused on ensuring a safe and healthy work environment (**ISO 45001**).
+- **Interested Parties:** Individuals or organizations that can affect, be affected by, or perceive themselves as affected by the organization’s activities (e.g., customers, employees, suppliers, regulators).
+- **Nonconformity:** Failure to meet a requirement of the IMS, a standard, or a legal obligation.
+- **Corrective Action:** Steps taken to eliminate the cause of a detected nonconformity and prevent its recurrence.
+- **Risk:** The effect of uncertainty on objectives, including risks to quality, environmental impact, and occupational safety.
+- **Documented Information:** Information required to be controlled and maintained, including policies, procedures, and records.
+
+---
+
+## 2. Context of the Organization
+
+### 2.1. Understanding the Organization and its Context
+
+[Organization Name] has established a systematic approach to determine the internal and external factors that may affect its ability to achieve the intended results of its Integrated Management System (IMS). These factors include cultural, social, political, legal, regulatory, and market conditions, as well as technological developments relevant to the organization’s operations. This understanding is maintained through regular assessments and documented in accordance with the **Procedure for Determining Context and Interested Parties**. The context is reviewed during management reviews to ensure continued relevance and alignment with strategic objectives.
+
+### 2.2. Understanding the Needs and Expectations of Interested Parties
+
+The organization identifies interested parties that may influence or be affected by its IMS, including customers, employees, suppliers, regulatory bodies, and local communities. Their needs and expectations, including regulatory and legal requirements, are determined and documented in the **List of Interested Parties** and through the **Procedure for Determining Context and Interested Parties**. The organization ensures these needs are reviewed and updated regularly as part of the continual improvement process. This approach ensures that relevant requirements are consistently understood and integrated into the IMS.
+
+### 2.3. Determining the Scope of the Integrated Management System
+
+The scope of the IMS is formally defined in the **Scope of the Integrated Management System** document, considering the external and internal context, the needs and expectations of interested parties, and applicable statutory, regulatory, and customer requirements. This scope outlines the processes, locations, and activities covered under the IMS while clearly documenting any exclusions, along with justifications, based on the organization’s operational activities. The scope statement is reviewed during management reviews, ensuring continuous alignment with evolving business objectives and stakeholder expectations.
+
+### 2.4. Integrated Management System and its Processes
+
+[Organization Name] has identified and documented all processes necessary for the effective implementation of the IMS. The interactions, inputs, outputs, and performance measures of these processes are defined in the **Process Aspects Chart** and aligned with the **Procedure for Document and Record Control**. Each process is subject to regular monitoring and performance evaluation based on the **Matrix of Key Performance Indicators**. The effectiveness of the IMS and its processes is reviewed during management meetings following the **Procedure for Management Review** to ensure ongoing compliance and continual improvement.
+
+---
+
+## 3. Leadership
+
+### 3.1. Leadership and Commitment
+
+#### 3.1.1. General
+
+Top management at [Organization Name] demonstrates leadership and commitment to the Integrated Management System (IMS) by ensuring the Quality Policy, Environmental Policy, and OH&S Policy are aligned with the organization’s strategic direction and operational context. Leadership is actively involved in the development, implementation, and continual improvement of the IMS, as outlined in the **Procedure for Management Review**. The effectiveness of the IMS is ensured by integrating its requirements into business processes and making the necessary resources available as described in the **Procedure for Addressing Risks and Opportunities** and the **Procedure for Competence, Training, and Awareness**.
+
+#### 3.1.2. Customer Focus
+
+Top management maintains a strong focus on customer satisfaction and regulatory compliance by ensuring customer requirements are consistently identified and addressed. The **Customer Requirement Review Checklist** and the **Registry of Customer and Interested Parties Complaints** are used to capture and monitor customer needs and feedback. The effectiveness of customer satisfaction efforts is regularly measured and reviewed through the **Procedure for Measuring Customer Satisfaction**, supported by the **Customer Satisfaction Questionnaire** and the **Report of Customer Satisfaction**. These tools help ensure continuous improvement and the prompt resolution of customer concerns.
+
+### 3.2. IMS Policies
+
+[Organization Name] has established the following policies to support its Integrated Management System:
+
+- **Quality Policy:** Ensures the delivery of consistent, high-quality products and services that meet customer and regulatory requirements.
+- **Environmental Policy:** Demonstrates the organization’s commitment to pollution prevention, resource conservation, and compliance with environmental laws.
+- **OH&S Policy:** Provides a framework for creating a safe and healthy working environment, minimizing occupational health and safety risks.
+
+These policies have been developed and maintained in accordance with the **Procedure for Document and Record Control** and are made available to all employees and interested parties. They are periodically reviewed and updated during management reviews as per the **Procedure for Management Review**.
+
+### 3.3. Organizational Roles and Responsibilities
+
+The responsibilities and authorities for all relevant IMS roles are clearly defined in the **List of Types of Records**, **List of Documents**, and the **List of Internal Documents**. Top management ensures that all roles impacting the effectiveness of the IMS, including quality assurance, environmental protection, and occupational health and safety, are properly assigned and communicated. The **Procedure for Competence, Training, and Awareness** outlines how competence requirements are determined, while the **Training Record**, **Record of Attendance**, and **Training Program** ensure the ongoing evaluation and development of personnel. The organization also maintains the **Registry of Key Risks and Opportunities** to track role-based risk management responsibilities.
+
+### 3.4. Consultation and Participation of Workers
+
+[Organization Name] fosters active consultation and participation of workers across all levels regarding IMS matters, ensuring their involvement in decision-making processes. The **Procedure for Communication, Participation, and Consultation** governs how feedback is collected and integrated into the IMS. Employee input is gathered through structured mechanisms such as the **Employee Feedback Report** and the **Communication Report**. This feedback contributes to the continuous improvement of the IMS and helps identify opportunities for enhanced occupational health and safety performance.
+
+---
+
+## 4. Planning
+
+### 4.1. Actions to Address Risks and Opportunities
+
+#### 4.1.1. General
+
+[Organization Name] systematically identifies and addresses risks and opportunities to ensure the Integrated Management System (IMS) achieves the following objectives:
+
+- Enhances desirable effects on quality, environmental, and OH&S performance.
+- Prevents undesired effects such as nonconformities, accidents, and environmental damage.
+- Improves the IMS by identifying opportunities for continual improvement.
+
+The organization ensures these actions are appropriate to the potential impact on the conformity of products and services, as well as the degree of risk involved. The approach for identifying risks and opportunities involves:
+
+- Identification of risk sources: using the **Procedure for Addressing Risks and Opportunities**.
+- Risk assessment methodologies: including **FMEA Risk Assessment Record**.
+- Recording and monitoring risks: within the **Registry of Key Risks and Opportunities**.
+
+Top management reviews the effectiveness of these actions during management reviews in alignment with the **Procedure for Management Review**.
+
+#### 4.1.2. Environmental Aspects
+
+The organization identifies and evaluates environmental aspects and their impacts through the **Procedure for Identification and Evaluation of Environmental Aspects and Risks**. This assessment includes:
+
+- Identification of significant aspects affecting air quality, waste generation, energy consumption, and water usage.
+- Evaluation of environmental aspects using the **Guideline for Waste Management** and **Guideline for Hazardous Substances Management**.
+- Establishment of control measures for significant aspects and maintaining the **Registry of Key Risks and Opportunities**.
+
+#### 4.1.3. Hazard Identification and Assessment of Risks and Opportunities
+
+The organization ensures the identification of hazards and risks through the **Procedure for Hazard Identification and Addressing OH&S Risks and Opportunities**. The process includes:
+
+- Identifying hazards such as physical, chemical, biological, and ergonomic risks.
+- Assessing risks using the **Hazard Evaluation Record**.
+- Documenting significant risks in the **List of Workplaces and Employees with Significant Risk**.
+
+The effectiveness of these assessments is periodically reviewed as part of the **Management Review Process**.
+
+#### 4.1.4. Compliance Obligations
+
+[Organization Name] ensures the identification and fulfillment of all compliance obligations related to:
+
+- Legal and regulatory requirements concerning quality, environmental, and OH&S aspects.
+- Industry standards applicable to the organization’s products and services.
+- Customer and stakeholder expectations as outlined in the **List of Interested Parties, Legal, and Other Requirements**.
+
+The process for managing compliance obligations is detailed in the **Procedure for Determining Context of the Organization and Interested Parties**, which includes:
+
+1. Identification of obligations: Using external standards, legal databases, and customer requirements.
+2. Integration into IMS processes: Embedding compliance into operational controls and quality checkpoints.
+3. Monitoring and Evaluation: Maintaining evidence of compliance through the **Conformance Evaluation Record**.
+
+Regular updates to compliance obligations are reviewed during management reviews and documented in the **Management Review Minutes**.
+
+#### 4.1.5. Planning Actions
+
+The organization plans and implements actions to address identified risks, opportunities, and compliance obligations. Actions are documented in the **Procedure for Addressing Risks and Opportunities** and include:
+
+- Mitigation Measures: Preventative actions for high-risk activities.
+- Preventive Actions: Assigning responsibilities for risk reduction.
+- Performance Monitoring: Using key metrics from the **Matrix of Key Performance Indicators**.
+
+The **FMEA Risks Assessment Record** and the **Registry of Key Risks and Opportunities** serve as primary tools for tracking the implementation of these actions.
+
+### 4.2. IMS Objectives and Planning to Achieve Them
+
+The organization establishes IMS objectives to ensure continuous improvement and compliance with **ISO 9001**, **ISO 14001**, and **ISO 45001**. Objectives include but are not limited to:
+
+- Quality Objectives: Improving product quality and customer satisfaction.
+- OH&S Objectives: Reducing workplace incidents and improving employee safety.
+- Environmental Objectives: Minimizing waste generation and enhancing energy efficiency.
+
+Objectives are documented in:
+
+- **Quality Objectives**
+- **OH&S Objectives**
+- **Environmental Objectives**
+
+#### 4.2.1. Setting and Monitoring Objectives
+
+IMS objectives are based on the Quality Policy, OH&S Policy, and Environmental Policy and are monitored using the **Matrix of Key Performance Indicators**. The organization ensures:
+
+- Objectives are consistent with the organization’s strategic direction.
+- Objectives are measurable and achievable.
+- Progress is reviewed during **Management Reviews**.
+
+### 4.3. Planning Changes
+
+[Organization Name] manages changes affecting the IMS to ensure continued effectiveness and compliance. The **Procedure for OH&S Change Management** outlines how to:
+
+- Identify changes: Including organizational shifts, process modifications, and regulatory updates.
+- Assess risks: Using the **Change Review Record**.
+- Implement actions: Ensuring revised processes are documented and risks are mitigated.
+
+Changes are communicated to relevant stakeholders through the **Procedure for Communication, Participation, and Consultation**.
+
+---
+
+## 5. Resources
+
+### 5.1. Resources
+
+[Organization Name] ensures the availability of necessary resources to establish, implement, maintain, and continually improve the IMS. These resources include personnel, infrastructure, work environment, and knowledge required for effective operations and compliance with **ISO 9001**, **ISO 14001**, and **ISO 45001** standards.
+
+The **Procedure for Document and Record Control** specifies how resource availability is documented and managed. Infrastructure and work environment controls are documented in the **Maintenance and Calibration Record** and the **Plan for Preventive Maintenance of Equipment**.
+
+### 5.2. Competence
+
+[Organization Name] ensures that personnel performing work under its control are competent based on appropriate education, training, or experience. Competence is managed and documented through the **Procedure for Competence, Training, and Awareness**.
+
+- Training records are maintained in the **Training Record** and **Record of Attendance**.
+- The **Training Program** outlines annual training needs and schedules.
+
+### 5.3. Awareness
+
+The organization ensures that workers are aware of:
+
+- The IMS policies (**Quality Policy**, **OH&S Policy**, and **Environmental Policy**).
+- The importance of their contribution to IMS effectiveness.
+- The implications of non-conformance to IMS requirements.
+
+Awareness is maintained through communication channels outlined in the **Procedure for Communication, Participation, and Consultation**.
+
+### 5.4. Communication
+
+[Organization Name] has established processes for internal and external communication, ensuring the effective flow of IMS information. Communication requirements, including frequency, audience, and methods, are documented in the **Procedure for Communication, Participation, and Consultation**.
+
+Records of communication efforts are documented in:
+
+- **Communication Report**
+- **Employee Feedback Report**
+
+#### 5.4.1. Documented Information
+
+The organization establishes, maintains, and controls documented information required for the effective functioning of the IMS. This process is defined in the **Procedure for Document and Record Control**.
+
+Documented information includes:
+
+- **List of Types of Records**
+- **List of Internal Documents**
+- **List of External Documents**
+- **Central Archive**
+
+---
+
+## 6. Operation
+
+### 6.1. Organizational Planning and Control
+
+[Organization Name] ensures planning and control of operations through the **Procedure for Production and Service Provision**. This includes:
+
+- Assigning roles and responsibilities for planning and managing operations.
+- Controlling inputs and outputs during product realization.
+- Defining operational criteria and monitoring conformance.
+
+### 6.2. Requirements for Products and Services
+
+The organization ensures that customer and regulatory requirements are determined and fulfilled. This is achieved through:
+
+- **Customer Requirement Review Checklist**
+- **Sales Procedure**
+- **Registry of Customer and Interested Parties Complaints**
+
+### 6.3. Design and Development of Products and Services
+
+The organization controls design and development processes according to the **Procedure for Design and Development**, which ensures:
+
+- Design inputs and outputs are defined and verified.
+- Design validation and verification activities are documented in the **Design Review Minutes** and **Project Plan and Review**.
+- Changes are managed through the **Change Review Record**.
+
+### 6.4. Control of Externally Provided Processes, Products, and Services
+
+The organization ensures that externally provided processes and products conform to requirements. The **Procedure for Purchasing and Evaluation of Suppliers** specifies controls for:
+
+- Evaluating and approving suppliers.
+- Monitoring supplier performance through the **Registry of Complaints about Suppliers** and the **List of Approved Suppliers**.
+- Defining purchasing criteria using the **Request and Order for Purchasing**.
+
+### 6.5. Production and Service Provision
+
+The organization ensures production and service provision is controlled and managed through:
+
+- **Procedure for Production and Service Provision**
+- **Product Specification**
+- **Production Registry**
+
+Where applicable, specialized procedures for different industries are followed:
+
+- **Procedure for Production of Rubber and Plastics**
+- **Procedure for Construction Process**
+- **Procedure for Software Development**
+
+### 6.6. Release of Products and Services
+
+The organization ensures that products and services meet defined acceptance criteria before release. This is managed through the **Procedure for Production and Service Provision** and **Service Conformance**.
+
+### 6.7. Control of Nonconforming Outputs
+
+Nonconforming products and services are identified and controlled through the **Procedure for the Management of Nonconformities and Corrective Actions**. Records are maintained in the **Non-Conformity Record** and **Corrective Action Record**.
+
+### 6.8. Emergency Preparedness and Response
+
+The organization has established and maintains procedures for responding to potential emergency situations. The **Procedures for Emergency Preparedness and Response** covers:
+
+- **Emergency Preparedness and Response Plan for Flooding**
+- **Emergency Preparedness and Response Plan for Leakage**
+- **Emergency Preparedness and Response Plan for Fire**
+
+---
+
+## 7. Performance Evaluation
+
+### 7.1. Monitoring, Measurement, Analysis, and Evaluation
+
+#### 7.1.1. General
+
+[Organization Name] ensures a comprehensive approach to monitoring, measurement, analysis, and evaluation as part of its Integrated Management System (IMS). The goal is to ensure continuous improvement, compliance with standards, and the effectiveness of the IMS across all operational areas.
+
+Top-level management and process owners define what will be monitored and measured, along with the methods, timing, and frequency. This ensures alignment with the organization’s objectives, compliance requirements, and stakeholder expectations. Performance data is analyzed during **Management Reviews** to determine system effectiveness and opportunities for improvement.
+
+Key considerations for monitoring and measuring include:
+
+- **Quality Performance:** Product conformity, process effectiveness, and defect rates.
+- **Environmental Impact:** Measurement of significant aspects such as energy use, emissions, and waste management as detailed in the **Guideline for Waste Management** and **Guideline for Energy & Water Management**.
+- **Health and Safety:** Monitoring of workplace hazards, incidents, and compliance with **ISO 45001** through the **Procedure for Hazard Identification and Addressing OH&S Risks and Opportunities**.
+
+Significant environmental and OH&S hazards that are regulated or prescribed by legislation are monitored through external measuring by an authorized institution, in line with the **Monitoring Plan**. These measurements ensure adherence to legal and regulatory requirements.
+
+**Responsibilities:**
+
+- [Job Title] is responsible for recording and maintaining all monitoring and measurement data.
+- Results are used for the analysis of corrective and preventive actions, ensuring a proactive approach to risk mitigation.
+
+**Calibration and Control:**
+
+When internal monitoring equipment is used, it must be properly calibrated, recorded, and controlled using the **Equipment Calibration Record** to maintain accuracy and reliability in measurement results.
+
+#### 7.1.2. Customer Satisfaction
+
+[Organization Name] actively monitors customer perceptions to determine whether customer needs and expectations have been met, as defined in the **Procedure for Measuring Customer Satisfaction**. Customer satisfaction data is collected and reviewed through:
+
+- **Customer Satisfaction Questionnaire**
+- **Report of Customer Satisfaction**
+- **Monitoring of Customer Satisfaction**
+
+#### 7.1.3. Analysis and Evaluation of Compliance
+
+Compliance obligations are systematically evaluated to ensure full adherence to applicable legal, regulatory, and other requirements. The process includes:
+
+- Identification and documentation of obligations: Managed through the **List of Interested Parties, Legal, and Other Requirements**.
+- Periodic Compliance Audits: Conducted using the **Conformance Evaluation Record**.
+- Corrective Actions for Non-Compliance: Handled using the **Procedure for the Management of Nonconformities and Corrective Actions**.
+
+### 7.2. Internal Audit
+
+[Organization Name] conducts internal audits to ensure the effective implementation and maintenance of the IMS. Internal audits are conducted at planned intervals according to the **Procedure for Internal Audit**.
+
+### 7.3. Management Review
+
+Top management conducts periodic Management Reviews to assess the suitability, adequacy, and effectiveness of the IMS, as described in the **Procedure for Management Review**.
+
+---
+
+## 8. Improvement
+
+### 8.1. General
+
+The organization continually improves the suitability, adequacy, and effectiveness of the Integrated Management System (IMS) to enhance its overall performance. The approach to improvement includes:
+
+- Proactive identification of opportunities for improvement.
+- Systematic actions to address risks and opportunities.
+- Monitoring and reviewing performance indicators regularly.
+
+The processes and activities for continual improvement are managed according to the **Procedure for Continual Improvement**.
+
+### 8.2. Incident, Nonconformity, and Corrective Action
+
+The organization has implemented a systematic approach to managing incidents, nonconformities, and corrective actions to ensure ongoing compliance and system integrity.
+
+When an incident or nonconformity occurs, the following steps are followed:
+
+1. Identification and documentation of the nonconformity using the **Non-Conformity Record**.
+2. Immediate actions to control and correct the nonconformity and mitigate its consequences.
+3. Root cause analysis performed according to the **Procedure for the Management of Nonconformities and Corrective Actions**.
+4. Implementation of corrective actions and effectiveness verification.
+5. Recording and tracking corrective actions using the **Corrective Action Record**.
+
+The status and effectiveness of corrective actions are reviewed regularly using the **Registry and Status of Nonconformities and Corrective Actions**.
+
+### 8.3. Continual Improvement
+
+The organization is committed to continual improvement of its IMS through proactive initiatives and performance reviews.
+
+Continual improvement efforts focus on:
+
+- Identifying areas of improvement using the **Continual Improvement Plan and Review**.
+- Encouraging feedback and suggestions from employees through the **Employee Feedback Report**.
+- Conducting periodic reviews and analysis using the **Management Review Minutes**.
+- Monitoring trends and performance indicators using the **Matrix of Key Performance Indicators**.
