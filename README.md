@@ -20,7 +20,12 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-For a quick test run the following command. This will read the questionnaire, the ISO template and then generate the result.
+Create `.env` file
+```
+OPENAI_API_KEY=[YOUR OPENAI KEY]
+```
+
+To run, run the following make command. This will read the questionnaire, the ISO template and then generate the result.
 ```bash
 make run
 ```
@@ -73,7 +78,7 @@ The agents can be configured from the `prompt` folder, they are defined there. A
 Greet the user in {input_language} language.
 ```
 
-Your dictiory should be formatted like this
+Your dictionary should be formatted like this
 ```python
 user_input = {
   "input_language": "German"
